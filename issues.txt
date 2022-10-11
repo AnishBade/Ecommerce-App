@@ -1,0 +1,2 @@
+-NameError: name 'os' is not defined
+solution: https://learndjango.com/tutorials/nameerror-name-os-not-defined
