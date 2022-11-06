@@ -1,2 +1,8 @@
 -NameError: name 'os' is not defined
 solution: https://learndjango.com/tutorials/nameerror-name-os-not-defined
+
+
+-ImportError: cannot import name ‘task’ from ‘celery’
+https://www.declarecode.com/code-solutions/shell/importerror-cannot-import-name-task-from-celery
+
+-flower not running after celery is running:
