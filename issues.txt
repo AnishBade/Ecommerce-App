@@ -6,3 +6,6 @@ solution: https://learndjango.com/tutorials/nameerror-name-os-not-defined
 https://www.declarecode.com/code-solutions/shell/importerror-cannot-import-name-task-from-celery
 
 -flower not running after celery is running:
+
+-OSError: cannot load library 'gobject-2.0-0': error 0x7e , while doing pdf work
+https://github.com/Kozea/WeasyPrint/issues/1556
