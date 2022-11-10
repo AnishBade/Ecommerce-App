@@ -9,3 +9,18 @@ https://www.declarecode.com/code-solutions/shell/importerror-cannot-import-name-
 
 -OSError: cannot load library 'gobject-2.0-0': error 0x7e , while doing pdf work
 https://github.com/Kozea/WeasyPrint/issues/1556
+
+
+
+to run rabbitmq:
+go to the cmd of rabbitmq and type : rabbitmq-server
+
+to run celery:
+on cmd line: celery -A myshop worker -l info
+
+to have the payment process running, you must have both celery and rabbitmq running
+
+
+Braintree payment :
+Visa test card: 4111 1111 1111 1111
+CV: 123
