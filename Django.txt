@@ -18,3 +18,5 @@ https://www.geeksforgeeks.org/change-object-display-name-using-__str__-function-
 -what is class meta used in django models:
 https://www.delftstack.com/howto/django/class-meta-in-django/#:~:text=The%20Meta%20class%20can%20be%20used%20to%20define,also%20comes%20with%20many%20options%20you%20can%20configure.
 
+-How to install redis on windows:
+https://www.youtube.com/watch?v=188Fy-oCw4w
